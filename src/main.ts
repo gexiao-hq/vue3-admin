@@ -42,3 +42,11 @@ async function setupApp() {
 setupPlugins();
 
 setupApp();
+
+
+
+
+
+
+
+console.error('9999999')
